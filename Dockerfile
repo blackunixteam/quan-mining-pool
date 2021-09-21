@@ -20,4 +20,4 @@ EXPOSE 7777
 
 VOLUME ["/config"]
 
-CMD node init.js -config=/config/config.json
+CMD node init.js -config=/niobio.json

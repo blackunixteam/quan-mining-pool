@@ -1,4 +1,5 @@
 config.json
+niobio.json
 package-lock.json
 node_modules/
 build/
@@ -7,3 +8,5 @@ logs/
 website/
 custom_coins/
 *.swp
+nohup*
+website_example/
